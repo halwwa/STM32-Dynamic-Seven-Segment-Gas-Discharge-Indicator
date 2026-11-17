@@ -1,4 +1,4 @@
-# STM32 Dynamic 7-Segment Display (Indicator12b)
+# STM32 Dynamic Seven-Segment Gas-Discharge Indicator (Indicator12b)
 
 Проект динамической индикации на микроконтроллере STM32F411CEU6. Устройство управляет четырьмя семисегментными индикаторами, отображая цифры от 0 до 9 одновременно на всех разрядах. 
 
